@@ -14,6 +14,9 @@
 ---
 
 **會怕就不要用**  
+**會怕就不要用**  
+**會怕就不要用**  
+
 
 我只是把曹佬提供的程式碼  
 透過 Nuitka 打包成了可執行檔  
@@ -26,16 +29,14 @@ google 關鍵字："nuitka 打包"
 請直接去照著曹佬的教學下載 python 和執行環境是比較保險的做法，然後這個網頁就可以關掉了  
 https://github.com/wangch2215/FindTargetChar/  
 
-
-照著下方影片操作
-
-
+如果能接受  
+照著下方影片操作  
 
 
 文字簡要步驟  
 1. 下載兩邊的檔案  
 曹佬的[檔案](https://github.com/wangch2215/FindTargetChar/tree/main)  
-下載這邊的檔案
+下載這邊的檔案 https://mega.nz/file/Fn0EyA6Q#Baq8zQT8MGtIwtkD-VDIFYNcM6u5UY-rM4HngZyxUes
 
 2. 解壓縮
 3. 執行程式 `template_matching.exe`，確認解析度，然後關閉程式
